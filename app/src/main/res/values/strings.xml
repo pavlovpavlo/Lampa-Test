@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lampa Test</string>
+    <string name="stories">Stories</string>
+    <string name="video">Video</string>
+    <string name="favourites">Favourites</string>
+    <string name="news">News</string>
+</resources>
